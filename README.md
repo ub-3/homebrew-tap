@@ -1,4 +1,4 @@
-# Ub-3 Tap
+# ub3 Tap
 
 ## How do I install these formulae?
 
